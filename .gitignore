@@ -1,3 +1,8 @@
-*/*.DS_Store
+**/.DS_Store
 OC/Microsoft
-oldConfig.plist
+OC/oldConfig.plist
+.DS_Store
+OC/config.plist.bak
+.husky/
+**/._*
+.idea/
